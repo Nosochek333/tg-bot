@@ -4,7 +4,7 @@ from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton, C
 import asyncio
 
 # Вставьте сюда ваш токен
-TOKEN = '7911992853:AAFdaWviiMzKPOzuJBgFbMlPOj_QVLGWJPs'
+TOKEN = ''
 
 # Инициализация бота и диспетчера
 bot = Bot(token=TOKEN)
